@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/htmlCssNginx/html.md" line="69" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c13fa090-a4f9-49d7-92eb-1a74872e8dff" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -12,19 +15,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="maven.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/maven/maven.md">
+      <file leaf-file-name="html.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/htmlCssNginx/html.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="261">
-                <caret line="98" column="24" lean-forward="true" selection-start-line="98" selection-start-column="24" selection-end-line="98" selection-end-column="24" />
+              <first_editor relative-caret-position="531">
+                <caret line="97" column="46" lean-forward="true" selection-start-line="97" selection-start-column="46" selection-end-line="97" selection-end-column="46" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="05-基本语法-特殊字符.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/htmlCssNginx/web/05-基本语法-特殊字符.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04-基本语法-属性.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/htmlCssNginx/web/04-基本语法-属性.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+              <folding>
+                <element signature="n#style#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -32,6 +63,12 @@
         <option value="$PROJECT_DIR$/src/maven" />
         <option value="$PROJECT_DIR$/src/maven.md" />
         <option value="$PROJECT_DIR$/src/maven/maven.md" />
+        <option value="$PROJECT_DIR$/src/htmlCssNginx/web/01-入门案例.html" />
+        <option value="$PROJECT_DIR$/src/htmlCssNginx/web/02-基本语法-注释.html" />
+        <option value="$PROJECT_DIR$/src/htmlCssNginx/web/03-基本语法-标签规范.html" />
+        <option value="$PROJECT_DIR$/src/htmlCssNginx/web/04-基本语法-属性.html" />
+        <option value="$PROJECT_DIR$/src/htmlCssNginx/html.md" />
+        <option value="$PROJECT_DIR$/src/htmlCssNginx/web/05-基本语法-特殊字符.html" />
       </list>
     </option>
   </component>
@@ -61,7 +98,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -78,13 +114,27 @@
               <item name="javaStudyNote" type="b2602c69:ProjectViewProjectNode" />
               <item name="javaStudyNote" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="maven" type="462c0819:PsiDirectoryNode" />
+              <item name="htmlCssNginx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaStudyNote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaStudyNote" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="htmlCssNginx" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaStudyNote" type="b2602c69:ProjectViewProjectNode" />
               <item name="javaStudyNote" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="mg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaStudyNote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaStudyNote" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mg" type="462c0819:PsiDirectoryNode" />
+              <item name="htmlCssNginx" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaStudyNote" type="b2602c69:ProjectViewProjectNode" />
@@ -97,9 +147,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -183,11 +235,14 @@
       <workItem from="1694343686847" duration="3365000" />
       <workItem from="1694388859988" duration="1493000" />
       <workItem from="1694443984769" duration="4575000" />
+      <workItem from="1694528844951" duration="2514000" />
+      <workItem from="1694531595888" duration="1828000" />
+      <workItem from="1694561289449" duration="3232000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9433000" />
+    <option name="totallyTimeSpent" value="17007000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1721" height="935" extended-state="6" />
@@ -205,7 +260,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="right" id="Word Book" order="3" side_tool="true" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1629585" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16416116" />
       <window_info anchor="bottom" id="Sequence Diagram" order="7" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -231,6 +286,63 @@
     <entry file="file://$PROJECT_DIR$/src/maven/maven.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
+          <first_editor relative-caret-position="3060">
+            <caret line="102" column="36" selection-start-line="102" selection-start-column="14" selection-end-line="102" selection-end-column="36" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/htmlCssNginx/web/01-入门案例.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/htmlCssNginx/html.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1560">
+            <caret line="52" column="20" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/maven/maven.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2940">
+            <caret line="98" column="24" selection-start-line="98" selection-start-column="24" selection-end-line="98" selection-end-column="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/htmlCssNginx/html.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="930">
+            <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/maven/maven.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2940">
+            <caret line="98" column="24" lean-forward="true" selection-start-line="98" selection-start-column="24" selection-end-line="98" selection-end-column="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/maven/maven.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
           <first_editor relative-caret-position="300">
             <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
           </first_editor>
@@ -246,18 +358,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/htmlCssNginx/web/02-基本语法-注释.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/htmlCssNginx/web/01-入门案例.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/maven/maven.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="632">
+          <caret line="40" column="32" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
+        </state>
+      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="261">
-            <caret line="98" column="24" lean-forward="true" selection-start-line="98" selection-start-column="24" selection-end-line="98" selection-end-column="24" />
+          <first_editor relative-caret-position="395">
+            <caret line="102" column="36" selection-start-line="102" selection-start-column="14" selection-end-line="102" selection-end-column="36" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="632">
-          <caret line="40" column="32" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/htmlCssNginx/web/03-基本语法-标签规范.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/htmlCssNginx/web/04-基本语法-属性.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+          <folding>
+            <element signature="n#style#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/htmlCssNginx/html.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="531">
+            <caret line="97" column="46" lean-forward="true" selection-start-line="97" selection-start-column="46" selection-end-line="97" selection-end-column="46" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/htmlCssNginx/web/05-基本语法-特殊字符.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
         </state>
       </provider>
     </entry>
