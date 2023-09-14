@@ -96,3 +96,28 @@ HTML概念小结
     1.什么是特殊字符
         ·在html中，像<> " ' 空格 &都是特殊字符，他们是语法本身的一部分
 ![HTML的特殊字符](../mg/htmlCssNginx/HTML的特殊字符.jpg)
+
+##9.HTML案例 新闻文本
+想要完成这个页面，首先要进行页面的布局，然后再填充文本样式。<br>
+#####1.div样式布局:<br>
+    ·在head标签中通过style标签来控制样式
+    ·样式格式：
+```html
+<style>
+div{
+    /*显示边框*/
+    border:1px solid red;
+
+    /*宽度 占屏幕的60%*/
+    width: 60%;
+
+    /*高度 500像素*/
+heigth: 500px;
+
+    /*边框外边距 距离浏览器的边框*/
+    margin： auto;
+}
+</style>       
+```
+#####2.文本标签
+![文本标签](../mg/htmlCssNginx/文本标签.jpg)
