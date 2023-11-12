@@ -4,10 +4,13 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaStudyNote.iml" filepath="$PROJECT_DIR$/JavaStudyNote.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-profiles/spring-profiles.iml" filepath="$PROJECT_DIR$/spring-profiles/spring-profiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-condition/springboot-condition.iml" filepath="$PROJECT_DIR$/springboot-condition/springboot-condition.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-helloworld/springboot-helloworld.iml" filepath="$PROJECT_DIR$/springboot-helloworld/springboot-helloworld.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-profiles/springboot-profiles.iml" filepath="$PROJECT_DIR$/springboot-profiles/springboot-profiles.iml" />
       <module fileurl="file://$PROJECT_DIR$/sptingboot-init/sptingboot-init.iml" filepath="$PROJECT_DIR$/sptingboot-init/sptingboot-init.iml" />
       <module fileurl="file://$PROJECT_DIR$/sptingboot-profiles/sptingboot-profiles.iml" filepath="$PROJECT_DIR$/sptingboot-profiles/sptingboot-profiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web_test1/web_test1.iml" filepath="$PROJECT_DIR$/web_test1/web_test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web_tests2/web_tests2.iml" filepath="$PROJECT_DIR$/web_tests2/web_tests2.iml" />
     </modules>
   </component>
 </project>

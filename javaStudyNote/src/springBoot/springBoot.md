@@ -47,4 +47,8 @@ server:
 3）profile激活方式
     ·配置文件：在配置文件中配置：spring.profiles.acticve=dev
     ·虚拟机参数：在VM options指定：-Dspring.profiles.active=dev
-    ·命令行参数：java-jar xxx.jar --spring.profiles.active=dev     
+    ·命令行参数：java-jar xxx.jar --spring.profiles.active=dev 
+    
+##4.SpringBoot自动配置
+Condition是在Spring4.0增加的条件判断功能，通过这个功能可以实现选择性的创建Bean操作。
+    

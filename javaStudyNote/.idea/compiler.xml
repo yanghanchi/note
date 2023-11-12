@@ -6,12 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="springboot-condition" />
         <module name="springboot-helloworld" />
         <module name="sptingboot-init" />
         <module name="sptingboot-profiles" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
+      <module name="springboot-condition" target="8" />
       <module name="springboot-helloworld" target="1.8" />
       <module name="sptingboot-init" target="1.8" />
       <module name="sptingboot-profiles" target="1.8" />
