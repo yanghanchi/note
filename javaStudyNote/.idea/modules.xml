@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaStudyNote.iml" filepath="$PROJECT_DIR$/JavaStudyNote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet_demo2/servlet_demo2.iml" filepath="$PROJECT_DIR$/servlet_demo2/servlet_demo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet_demo3/servlet_demo3.iml" filepath="$PROJECT_DIR$/servlet_demo3/servlet_demo3.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-profiles/spring-profiles.iml" filepath="$PROJECT_DIR$/spring-profiles/spring-profiles.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-condition/springboot-condition.iml" filepath="$PROJECT_DIR$/springboot-condition/springboot-condition.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-helloworld/springboot-helloworld.iml" filepath="$PROJECT_DIR$/springboot-helloworld/springboot-helloworld.iml" />

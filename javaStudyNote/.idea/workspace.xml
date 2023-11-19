@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="web_tests2:war exploded" />
+      <artifact name="servlet_demo3:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="BookmarkManager">
@@ -24,14 +24,77 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="JavaWeb.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="JavaWeb.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/javaWeb/JavaWeb.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="485">
-                <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+                <caret line="98" selection-start-line="98" selection-end-line="98" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServletConfigDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/servlet_demo2/src/com/itheima/servlet/ServletConfigDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServletDemo01.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/servlet_demo3/src/com/itheima/servlet/ServletDemo01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-22">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServletDemo02.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/servlet_demo3/src/com/itheima/servlet/ServletDemo02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyRegister.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/servlet_demo3/src/com/itheima/servlet/MyRegister.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="458">
+              <caret line="23" column="55" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="javax.servlet.ServletContainerInitializer" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/servlet_demo3/src/META-INF/services/javax.servlet.ServletContainerInitializer">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/servlet_demo2/web/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -57,12 +120,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/htmlCssNginx/web/02-基本语法-注释.html" />
-        <option value="$PROJECT_DIR$/src/htmlCssNginx/web/03-基本语法-标签规范.html" />
-        <option value="$PROJECT_DIR$/src/htmlCssNginx/web/04-基本语法-属性.html" />
-        <option value="$PROJECT_DIR$/src/htmlCssNginx/web/05-基本语法-特殊字符.html" />
-        <option value="$PROJECT_DIR$/src/htmlCssNginx/web/案例一/01-样式演示.html" />
-        <option value="$PROJECT_DIR$/src/htmlCssNginx/web/案例一/02-文本标签演示.html" />
         <option value="$PROJECT_DIR$/src/htmlCssNginx/web/案例一/03-新闻文本案例.html" />
         <option value="$PROJECT_DIR$/src/htmlCssNginx/web/案例二/01-案例二：样式演示.html" />
         <option value="$PROJECT_DIR$/src/htmlCssNginx/web/案例二/02案例二：图片标签的演示.html" />
@@ -108,6 +165,12 @@
         <option value="$PROJECT_DIR$/web_tests2/src/com/itheima/servlet/StudentServlet.java" />
         <option value="$PROJECT_DIR$/web_tests2/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/javaWeb/JavaWeb.md" />
+        <option value="$PROJECT_DIR$/servlet_demo2/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/servlet_demo2/src/com/itheima/servlet/ServletConfigDemo.java" />
+        <option value="$PROJECT_DIR$/servlet_demo3/src/com/itheima/servlet/ServletDemo01.java" />
+        <option value="$PROJECT_DIR$/servlet_demo3/src/com/itheima/servlet/ServletDemo02.java" />
+        <option value="$PROJECT_DIR$/servlet_demo3/src/META-INF/services/javax.servlet.ServletContainerInitializer" />
+        <option value="$PROJECT_DIR$/servlet_demo3/src/com/itheima/servlet/MyRegister.java" />
       </list>
     </option>
   </component>
@@ -133,8 +196,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-11" />
-    <option name="y" value="-11" />
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
     <option name="width" value="894" />
     <option name="height" value="864" />
   </component>
@@ -143,7 +206,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -154,13 +216,64 @@
             <path>
               <item name="javaStudyNote" type="b2602c69:ProjectViewProjectNode" />
               <item name="javaStudyNote" type="462c0819:PsiDirectoryNode" />
+              <item name="servlet_demo3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaStudyNote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaStudyNote" type="462c0819:PsiDirectoryNode" />
+              <item name="servlet_demo3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaStudyNote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaStudyNote" type="462c0819:PsiDirectoryNode" />
+              <item name="servlet_demo3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaStudyNote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaStudyNote" type="462c0819:PsiDirectoryNode" />
+              <item name="servlet_demo3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaStudyNote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaStudyNote" type="462c0819:PsiDirectoryNode" />
+              <item name="servlet_demo3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="servlet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaStudyNote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaStudyNote" type="462c0819:PsiDirectoryNode" />
+              <item name="servlet_demo3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaStudyNote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaStudyNote" type="462c0819:PsiDirectoryNode" />
+              <item name="servlet_demo3" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaStudyNote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaStudyNote" type="462c0819:PsiDirectoryNode" />
+              <item name="servlet_demo3" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -184,16 +297,19 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\github\note\javaStudyNote\src\htmlCssNginx\web\案例三" />
+      <recent name="E:\github\note\javaStudyNote\src\mg" />
+      <recent name="E:\JjavaStudyNote\src\maven" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.itheima.servlet" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\github\note\javaStudyNote\web_tests2\web" />
       <recent name="E:\github\note\javaStudyNote\web_test1\web" />
       <recent name="E:\github\note\javaStudyNote\sptingboot-profiles\src\main\resources" />
       <recent name="E:\github\note\javaStudyNote\src\htmlCssNginx" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\github\note\javaStudyNote\src\htmlCssNginx\web\案例三" />
-      <recent name="E:\github\note\javaStudyNote\src\mg" />
-      <recent name="E:\JjavaStudyNote\src\maven" />
     </key>
   </component>
   <component name="RestServicesNavigator">
@@ -319,18 +435,20 @@
       <listeners />
     </configuration>
     <configuration name="Tomcat 8.5.68" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.68" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:80/crm/" />
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/demo3/" />
       <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
       <option name="UPDATING_POLICY" value="update-resources" />
       <deployment>
-        <artifact name="web_tests2:war exploded">
+        <artifact name="servlet_demo3:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/crm" />
+            <option name="CONTEXT_PATH" value="/demo3" />
           </settings>
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_68_javaStudyNote_2" />
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_68_javaStudyNote_4" />
+        <option name="HTTP_PORT" value="8080" />
       </server-settings>
       <predefined_log_file id="Tomcat" enabled="true" />
       <predefined_log_file id="Tomcat Catalina" enabled="true" />
@@ -338,7 +456,7 @@
       <predefined_log_file id="Tomcat Host Manager" enabled="false" />
       <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="52236" />
+        <option name="DEBUG_PORT" value="65476" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -387,7 +505,7 @@
       </ConfigurationWrapper>
       <method>
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="web_tests2:war exploded" />
+          <artifact name="servlet_demo3:war exploded" />
         </option>
       </method>
     </configuration>
@@ -443,11 +561,13 @@
       <workItem from="1699091101811" duration="3373000" />
       <workItem from="1699171681844" duration="1704000" />
       <workItem from="1699764360490" duration="10917000" />
+      <workItem from="1699784921512" duration="729000" />
+      <workItem from="1700373794583" duration="6201000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89987000" />
+    <option name="totallyTimeSpent" value="96917000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1721" height="935" extended-state="6" />
@@ -455,7 +575,7 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="RestServices" order="3" weight="0.32952496" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3290653" />
-      <window_info anchor="bottom" id="Application Servers" weight="0.3290653" />
+      <window_info anchor="bottom" id="Application Servers" order="8" weight="0.3290653" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Word Book" order="3" side_tool="true" />
@@ -474,7 +594,7 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.5620999" />
       <window_info anchor="bottom" id="Spring" order="8" weight="0.1446863" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14852676" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22429344" />
       <window_info anchor="right" id="Bean Validation" order="4" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -532,34 +652,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/htmlCssNginx/web/案例一/02-文本标签演示.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="71" column="33" selection-start-line="71" selection-start-column="33" selection-end-line="71" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/htmlCssNginx/web/案例二/03案例二：超链接标签演示.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/htmlCssNginx/web/案例二/02案例二：图片标签的演示.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/htmlCssNginx/web/案例二/04案例二：头条页面.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/htmlCssNginx/web/案例二/01-案例二：样式演示.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="668">
@@ -655,17 +747,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/htmlCssNginx/css.md">
-      <provider editor-type-id="text-editor">
-        <state>
-          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="840">
             <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state>
+          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -813,9 +905,6 @@
         <state relative-caret-position="-1620" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web_test1/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/web_test1/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -835,23 +924,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web_tests2/web/html/frame.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web_tests2/web/css/sys.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/web_tests2/src/com/itheima/servlet/StudentServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-            <element signature="e#548#549#0" expanded="true" />
-            <element signature="e#575#576#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -882,13 +958,71 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/servlet_demo2/src/com/itheima/servlet/ServletConfig/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/javaWeb/JavaWeb.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="485">
-            <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+            <caret line="98" selection-start-line="98" selection-end-line="98" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servlet_demo2/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servlet_demo2/src/com/itheima/servlet/ServletConfigDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servlet_demo3/src/com/itheima/servlet/ServletDemo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servlet_demo3/src/META-INF/services/javax.servlet.ServletContainerInitializer">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servlet_demo3/src/com/itheima/servlet/ServletDemo02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servlet_demo3/src/com/itheima/servlet/MyRegister.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="23" column="55" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -946,7 +1080,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>web_tests2</last-edited>
+          <last-edited>servlet_demo3</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
